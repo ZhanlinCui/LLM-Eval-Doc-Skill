@@ -1,6 +1,14 @@
 ---
 name: model-evaluation-doc
-description: 设计、撰写或审阅支持模型选型、版本升级与上线验收的评测方案和技术报告。适用于 LLM、分类/决策模型、RAG 与 Agent；把业务标准、实验配置、统计口径、原始证据与采用建议连起来。仅需普通模型科普、排行榜查询或模型训练时不使用。
+description: >-
+  Design, write or review evaluation plans and technical reports for model selection,
+  upgrades and deployment acceptance. Covers LLMs, classifiers/decision models, RAG
+  and agents; connects business criteria, reproducible experiments, traceable evidence
+  and adoption recommendations. Not for general model explanations, leaderboard lookups
+  or model training.
+  设计、撰写或审阅支持模型选型、版本升级与上线验收的评测方案和技术报告。
+  适用于 LLM、分类/决策模型、RAG 与 Agent；连接业务标准、可复现实验、证据与采用建议。
+  普通模型科普、排行榜查询或模型训练时不使用。
 ---
 
 # 模型评测文档

@@ -1,3 +1,5 @@
+<p align="center"><strong>简体中文</strong> · <a href="README.en.md">English</a></p>
+
 <p align="center">
   <img src="assets/readme-cover.jpg" alt="模型评测文档 — 从证据到决策" width="100%" />
 </p>
@@ -166,6 +168,8 @@ python3 scripts/audit_evidence.py /path/to/evidence.json --out /path/to/audit.js
 
 ```text
 .
+├── README.md                        # 中文说明
+├── README.en.md                     # English documentation
 ├── SKILL.md                         # 入口与决策工作流
 ├── agents/openai.yaml               # 名称、描述与默认调用提示
 ├── references/
