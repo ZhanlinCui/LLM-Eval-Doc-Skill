@@ -1,0 +1,4 @@
+interface:
+  display_name: "模型评测文档"
+  short_description: "围绕选型与上线决策，设计评测、核验证据并生成可追溯的技术报告"
+  default_prompt: "使用 $model-evaluation-doc，根据我的任务与现有材料生成模型评测方案或报告，并标明证据缺口与决策条件。"
